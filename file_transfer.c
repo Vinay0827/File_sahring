@@ -1,3 +1,7 @@
+//gcc -o file_server file_server.c -lmicrohttpd
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
